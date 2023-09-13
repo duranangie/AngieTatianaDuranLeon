@@ -1,6 +1,6 @@
-#Grupo
+# Grupo
 
-###Integrantes
+### Integrantes
 
 Angie Nathalia Cardenas
 ANgie Tatiana Duran
